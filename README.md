@@ -4,9 +4,9 @@
 **Jangan lupa untuk mengganti:**
 
 ```cpp
-const char *ssid = "Nama-Wifi";       // Line 8
+const char *ssid = "Nama-Wifi";          // Line 8
 const char *password = "Password-Wifi"; // Line 9
-String url = "Website-URL" + uid;     // Line 126
+String url = "Website-URL" + uid;      // Line 126
 ```
 
 **Contoh URL yang digunakan:**
